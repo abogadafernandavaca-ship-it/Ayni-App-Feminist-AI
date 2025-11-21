@@ -1,0 +1,7 @@
+{
+  "name": "J-MÓVIL: IA Feminista",
+  "description": "Plataforma de auditoría cívica y protección contra la VBG con enfoque no extractivista (Ayni).",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
